@@ -1,5 +1,4 @@
 #Slush generator for study
-============
 
 ## Development
 
